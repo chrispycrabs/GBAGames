@@ -1,5 +1,5 @@
 ---
-title: Games
+title: Home
 ---
 
 ## Welcome to CrabbyPatty Center!
